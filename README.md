@@ -1,2 +1,2 @@
 # Kaggle_House_Price_Prediction
-I have attempted my first kaggle competition in which i had to build a house price prediction model using advanced regression techniques
+I embarked on my inaugural Kaggle competition, where the challenge was to construct a robust house price prediction model employing advanced regression techniques.
