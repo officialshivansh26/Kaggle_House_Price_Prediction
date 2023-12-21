@@ -38,10 +38,10 @@ To replicate and explore the results, follow these steps:
 
 Feel free to experiment with different parameters, models, or extend the dataset for further analysis.
 
-##Results
+## Results
 The StackReg Regression model exhibited superior performance, providing the most accurate house price predictions among the implemented techniques.
 
-##Acknowledgments
+## Acknowledgments
 Special thanks to the Kaggle community and the contributors of the libraries used in this project.
 
 If you find this project helpful or have suggestions for improvement, feel free to open an issue or submit a pull request.
